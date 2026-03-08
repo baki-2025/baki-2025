@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Abdullah Baki</h1>
 <h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 
-- 👨‍💻 All of my projects are available at [https:/star-developer-portfolio.lovable.app](https:/star-developer-portfolio.lovable.app)
+- 👨‍💻 All of my projects are available at [https://star-developer-portfolio.lovable.app](https://star-developer-portfolio.lovable.app)
 
 - 📫 How to reach me **abz.147570@gmail.com**
 
