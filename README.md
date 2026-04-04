@@ -43,10 +43,11 @@ Currently, I'm focused on expanding my knowledge in **Next.js** while working on
 
 ## 📊 GitHub Stats  
 
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=baki-2025&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baki-2025&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
----
-
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=baki-2025&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
