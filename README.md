@@ -29,7 +29,8 @@ Currently, I'm focused on expanding my knowledge in **Next.js** while working on
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-
+![Vercel](https://img.shields.io/badge/Vercel-FF6C37?style=for-the-badge&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-FF6C37?style=for-the-badge&logo=netlify)
 ---
 
 ## 🌐 Connect With Me  
