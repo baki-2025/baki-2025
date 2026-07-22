@@ -27,6 +27,9 @@ Currently, I'm focused on expanding my knowledge in **Next.js** while working on
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
+### **Backend** ### **Frontend**
+![Next.js](https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=next)
+
 ### **Tools & Others**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
