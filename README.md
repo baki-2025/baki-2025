@@ -1,7 +1,7 @@
 <img width="1536" height="1024" alt="45b13c3f-db21-4c7a-9b2c-577c9157569f" src="https://github.com/user-attachments/assets/27cda188-4129-4526-aee0-3cc799403aa5" />
 
 # Hi 👋, I'm Md. Abdullah Baki  
-### 🔭 I build things with JavaScript, React,Next.js and Node.js
+### 🔭 I build things with JavaScript,TypeScript,React,Next.js and Node.js
 
 ---
 
@@ -17,6 +17,7 @@ Currently, I'm focused on expanding my knowledge in **Next.js** while working on
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-E34F26?style=for-the-badge&logo=bootstrap)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
