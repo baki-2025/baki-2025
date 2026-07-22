@@ -36,6 +36,7 @@ Currently, I'm focused on expanding my knowledge in **Next.js** while working on
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![Vercel](https://img.shields.io/badge/Vercel-FF6C37?style=for-the-badge&logo=vercel)
 ![Netlify](https://img.shields.io/badge/Netlify-FF6C37?style=for-the-badge&logo=netlify)
+![Antigravity](https://img.shields.io/badge/Antigravity-FF6C37?style=for-the-badge&logo=antigravity)
 ---
 
 ## 🌐 Connect With Me  
